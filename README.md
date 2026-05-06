@@ -132,8 +132,14 @@ Business Central ERP APIs
 
 <div align="center">
 
-![Jasmeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasmeet15069&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeet15069&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/jasmeet15069">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jasmeet15069&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jasmeet15069&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jasmeet15069&theme=tokyonight&hide_border=true)](https://github.com/jasmeet15069)
 
 </div>
 
@@ -154,7 +160,7 @@ Business Central ERP APIs
 
 <div align="center">
 
-<img src='https://profile-counter.glitch.me/jasmeet15069/count.svg' width='auto'/>
+![Profile Views](https://komarev.com/ghpvc/?username=jasmeet15069&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 
